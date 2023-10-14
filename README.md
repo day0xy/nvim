@@ -8,7 +8,6 @@ Just to satisfy my little needs,`comment.nvim` `surround.nvim`
     Lazy.nvim                 --Lazy Plugin manager.
     Comment.nvim              --Smart and powerful comment plugin for neovim.
     surround.nvim             --Add/change/delete surrounding delimiter pairs with ease.
-    mini-indentscope.nvim     --visualize and operate on indent scope.
 ```
 
 ### how to use
