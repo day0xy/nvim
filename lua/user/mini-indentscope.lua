@@ -8,7 +8,7 @@ function M.config()
         symbol = "│",
         options = { try_as_border = true },
         draw = {
-            delay = 200,
+            delay = 100,
           },
     }
 end
